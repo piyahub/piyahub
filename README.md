@@ -1,25 +1,22 @@
 
 # Hi there! 👋
 
-Welcome to my GitHub profile! I’m a passionate developer and a dedicated coder, currently diving into the world of deep learning and AI. I specialize in web development, building AI-driven solutions, and exploring new technologies. 
+Welcome to my GitHub profile! I'm a dedicated software engineer and a passionate coder and a developer who has a strong inclination towards contributing in open-source projects. I am also a 2 star coder on codechef and have been honing my coding skills. I specialize in web development, building AI-driven solutions, and exploring new technologies. 
 
 ## 🚀 What I’m working on:
-- AI-powered symptom checker
-- Regional language integration for websites
-- Personal projects related to deep learning research
+- GANs as a part of my minor project
+- LLDs as a part of my personal project
+- Building react app for bitcoin trading
 
 ## 💻 Skills & Technologies:
 - Web Development (HTML, CSS, JavaScript, React js, Node js)
-- Deep Learning (TensorFlow
-- AI/ML Models
-- Data Science & Analytics
+- C++/DSA
 
-## 📫 How to reach me:
-Feel free to open issues or pull requests on my repositories, or get in touch through [your email] or [LinkedIn/GitHub page].
 
 Looking forward to collaborating with fellow developers!
 
 
+Here are the badges that earned through participating in GSSOC extd 2024!!!!
 
   <details>	
  <summary><b>GSSOC(24) Badges 🪶</b></summary><br>
