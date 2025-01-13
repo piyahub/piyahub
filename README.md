@@ -27,13 +27,14 @@ Welcome to my GitHub profile! I'm a dedicated software engineer and a passionate
 - Web Development (HTML, CSS, JavaScript, React js, Node js)
 - C++/DSA
 
-## Projects 💻
--Skill_Sprout (an educational website created using frontend as well as backend technologies HTML, CSS, JavaScript and databse)
+## Projects and Achievments 💻
+-Skill_Sprout (an educational website created using web technologies and databse)
+
 
 Looking forward to collaborating with fellow developers!
 
 
-Here are the badges that earned through participating in GSSOC extd 2024!!!!
+
 
   	
 
