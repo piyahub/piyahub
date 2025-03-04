@@ -24,7 +24,8 @@ Welcome to my GitHub profile! I'm a passionate coder and a developer who has a s
 - Learning about blockchain and building projects
 
 ## 💻 Skills & Technologies:
-- Web Development (HTML, CSS, JavaScript, React js, Node js)
+- Web Development (HTML, CSS, JavaScript, React js, Node js, React three fibre, Firebase)
+- Other technologies (Solidity)
 - C++/DSA
 
 ## Projects and Achievments 💻
