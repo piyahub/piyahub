@@ -16,12 +16,12 @@
 
 # Hi there! 👋
 
-Welcome to my GitHub profile! I'm a passionate coder and a developer who has a strong inclination towards contributing in open-source projects. I am also a 2 star coder on codechef and have been honing my coding skills. I got 388 rank over 5000+ contributors in GSSOC 2024.I have also ranked 2 in NIT Jalandhar in Graphs Bootcamp organised by Algo University. I specialize in web development, building AI-driven solutions, and exploring new technologies. 
+Welcome to my GitHub profile! I'm a passionate coder and a developer who has a strong inclination towards contributing in open-source projects. I am also a 3 star coder on codechef and have been honing my coding skills. I got 388 rank over 5000+ contributors in GSSOC 2024.I have also ranked 2 in NIT Jalandhar in Graphs Bootcamp organised by Algo University. I specialize in web development, building AI-driven solutions, and exploring new technologies. 
 
 ## 🚀 What I’m working on:
 - GANs as a part of my minor project
 - LLDs as a part of my personal project
-- Building react app for bitcoin trading
+- Learning about blockchain and building projects
 
 ## 💻 Skills & Technologies:
 - Web Development (HTML, CSS, JavaScript, React js, Node js)
