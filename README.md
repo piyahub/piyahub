@@ -16,11 +16,11 @@
 
 # Hi there! 👋
 
-Welcome to my GitHub profile! I'm a passionate coder and a developer who has a strong inclination towards contributing in open-source projects. I am also a 3 star coder on codechef and have been honing my coding skills. I got 388 rank over 5000+ contributors in GSSOC 2024.I have also ranked 2 in NIT Jalandhar in Graphs Bootcamp organised by Algo University. I specialize in web development, building AI-driven solutions, and exploring new technologies. 
+Welcome to my GitHub profile! I'm a passionate coder and a developer who has a strong inclination towards contributing in open-source projects. I am also a 2 star coder on codechef and have been honing my coding skills. I got 388 rank over 5000+ contributors in GSSOC 2024.I have also ranked 2 in NIT Jalandhar in Graphs Bootcamp organised by Algo University. I specialize in web development, building AI-driven solutions, and exploring new technologies. 
 
 ## 🚀 What I’m working on:
 - GANs as a part of my minor project
-- LLDs as a part of my personal project
+- Virtual Reality enthusiast
 - Learning about blockchain and building projects
 
 ## 💻 Skills & Technologies:
@@ -29,8 +29,9 @@ Welcome to my GitHub profile! I'm a passionate coder and a developer who has a s
 - C++/DSA
 
 ## Projects and Achievments 💻
--Skill_Sprout (an educational website created using web technologies and databse)
-
+-- 🌱Skill_Sprout (an educational website created using web technologies and databse)
+-- ⚡E_Voting-System (build using blockchain and Web technologies)
+-- ✨Real-Time chat bot Application(Build using Socket.IO)
 
 Looking forward to collaborating with fellow developers!
 
