@@ -29,9 +29,9 @@ Welcome to my GitHub profile! I'm a passionate coder and a developer who has a s
 - C++/DSA
 
 ## Projects and Achievments 💻
--- 🌱Skill_Sprout (an educational website created using web technologies and databse)
--- ⚡E_Voting-System (build using blockchain and Web technologies)
--- ✨Real-Time chat bot Application(Build using Socket.IO)
+- 🌱Skill_Sprout (an educational website created using web technologies and databse)
+- ⚡E_Voting-System (build using blockchain and Web technologies)
+- ✨Real-Time chat bot Application(Build using Socket.IO)
 
 Looking forward to collaborating with fellow developers!
 
