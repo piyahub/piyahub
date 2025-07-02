@@ -30,7 +30,7 @@ Welcome to my GitHub profile! I'm a passionate coder and a developer who has a s
 
 ## Projects and Achievments 💻
 - 🌱Skill_Sprout (an educational website created using web technologies and database)
-- ⚡E_Voting-System (build using blockchain and Web technologies)
+- ⚡AugmentGAN 
 - ✨Real-Time chat bot Application(Build using Socket.IO)
 
 Looking forward to collaborating with fellow developers!
