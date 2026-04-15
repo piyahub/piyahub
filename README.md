@@ -13,27 +13,86 @@
  
 </a>
 </div>
+# Hi there! 👋 I'm Piyush
 
-# Hi there! 👋
+🎓 Final Year Student at NIT Jalandhar  
+💻 Incoming TDP Associate @ Optum  
+🚀 MERN Stack Developer | AI/ML Enthusiast  
 
-Welcome to my GitHub profile! I'm a passionate coder and a developer who has a strong inclination towards contributing in open-source projects. I am also a 3 star coder on codechef and have been honing my coding skills. I got 388 rank over 5000+ contributors in GSSOC 2024.I have also ranked 2 in NIT Jalandhar in Graphs Bootcamp organised by Algo University. I specialize in web development, building AI-driven solutions, and exploring new technologies. 
+---
 
-## 🚀 What I’m working on:
-- GANs as a part of my minor project
-- Virtual Reality enthusiast
-- Learning about blockchain and building projects
+## 🧠 About Me
+I am a passionate developer with a strong interest in **Software Development and Artificial Intelligence**.  
+I enjoy building real-world applications that combine **web technologies and AI**.
 
-## 💻 Skills & Technologies:
-- Web Development (HTML, CSS, JavaScript, React js, Node js, React three fibre, Firebase)
-- Other technologies (Solidity)
-- C++/DSA
+🔹 Built projects using **GANs and RAG-based systems**  
+🔹 Strong foundation in **Data Structures & Algorithms (C++)**  
+🔹 Actively exploring scalable and impactful tech solutions  
 
-## Projects and Achievments 💻
-- 🌱Skill_Sprout (an educational website created using web technologies and database)
-- ⚡AugmentGAN 
-- ✨Real-Time chat bot Application(Build using Socket.IO)
+---
 
-Looking forward to collaborating with fellow developers!
+## 🚀 Projects
+
+### 🔹 RAG-based College Chatbot
+- Built a chatbot for timetable queries using Retrieval-Augmented Generation  
+- Used **MongoDB as knowledge base** and **Groq LLM** for fast responses  
+- Enabled context-aware, real-time query handling  
+
+---
+
+### 🔹 SolarGAN: Conditional GAN for Data Augmentation
+- Developed a **CGAN** for class-conditioned image generation  
+- Applied on **solar panel dataset** to generate synthetic images  
+- Used **VGG16 for feature extraction** and **FID score for evaluation**  
+
+---
+
+### 🔹 Skill Sprout (MERN Web App)
+- Full-stack educational platform built using **MongoDB, Express, React, Node.js**  
+- Implemented authentication, database integration, and responsive UI  
+
+---
+
+### 🔹 Real-Time Chat Application
+- Built using **Socket.IO** for instant messaging  
+- Supports real-time communication and multiple users  
+
+---
+
+## 💻 Skills & Technologies
+
+**Languages:**  
+C++, Python, JavaScript  
+
+**Web Development:**  
+MERN Stack (MongoDB, Express, React, Node.js)  
+HTML, CSS, Firebase  
+
+**AI/ML:**  
+GANs, RAG, Deep Learning, NLP  
+
+**Other:**  
+Solidity, Blockchain (Basics)  
+
+---
+
+## 🏆 Achievements
+
+🏅 Ranked **388 / 5000+ contributors** in GSSoC 2024  
+⭐ 3★ Coder on CodeChef  
+🥈 Rank 2 at NIT Jalandhar (Graphs Bootcamp by Algo University)  
+
+---
+
+## 🌱 Currently Exploring
+- Advanced AI/ML systems  
+- Scalable backend architectures  
+- Blockchain & Web3  
+
+---
+
+## 🤝 Let's Connect!
+I’m always open to collaboration, learning, and exciting opportunities 🚀
 
 
 
