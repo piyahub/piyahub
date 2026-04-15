@@ -13,7 +13,8 @@
  
 </a>
 </div>
-# Hi there! 👋 I'm Piyush
+
+Hi there! 👋 I'm Priya
 
 🎓 Final Year Student at NIT Jalandhar  
 💻 Incoming TDP Associate @ Optum  
