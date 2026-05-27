@@ -83,40 +83,21 @@
 - Built responsive frontend with efficient backend communication
 
 ---
-
 # 💻 Skills & Technologies
 
-## Languages
-- C++
-- Python
-- JavaScript
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,python,javascript,react,nodejs,express,mongodb,fastapi,firebase,html,css,git,github,postman,vscode,linux" />
+</p>
 
-## Web Development
-- React.js
-- Node.js
-- Express.js
-- MongoDB
-- FastAPI
-- Firebase
-- HTML/CSS
-
-## AI/ML
-- GANs
-- RAG
-- NLP
+### 🧠 AI/ML
+- Retrieval-Augmented Generation (RAG)
+- GANs & Generative AI
+- NLP & Semantic Search
 - Deep Learning
 - LLM Integration
-- ChromaDB
-- Semantic Search
-
-## Tools & Platforms
-- Git & GitHub
-- Postman
-- VS Code
-- Linux
+- ChromaDB & Vector Databases
 
 ---
-
 # 🏆 Achievements
 
 - 🏅 Ranked 388 / 5000+ contributors in GSSoC 2024
