@@ -67,22 +67,6 @@
 - Improved dataset diversity for better deep learning model performance
 
 ---
-
-## 🔹 Skill Sprout (MERN Web Application)
-
-- Built a full-stack educational platform using MongoDB, Express.js, React.js, and Node.js
-- Implemented authentication, database integration, and responsive UI
-- Focused on scalability and user-friendly design
-
----
-
-## 🔹 Real-Time Chat Application
-
-- Developed a real-time chat platform using Socket.IO
-- Supports instant messaging and multiple user communication
-- Built responsive frontend with efficient backend communication
-
----
 # 💻 Skills & Technologies
 
 <p align="left">
