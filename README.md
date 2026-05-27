@@ -1,133 +1,141 @@
- GSSOC(2024)Badges 🪶 
- 
+# Hi, I'm Priya 👋
+
+### AI/ML Engineer • RAG Systems • Full-Stack AI Developer
+
+🎓 Final Year Student at NIT Jalandhar  
+💼 Incoming TDP Associate @ Optum  
+🚀 Building AI-powered applications using RAG, LLMs, GANs & MERN Stack  
+
+---
+
+## 🏆 GSSOC(2024) Badges 🪶
+
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
   <a href="https://gssoc.girlscript.tech/leaderboard">
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
 <img src="https://raw.githubusercontent.com/GSSoC24/Hack-Web3Conf/refs/heads/main/assets/Hack-Web3Conf%202024%20Badge%20(2).png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
-
- 
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
 </a>
 </div>
-
-Hi there! 👋 I'm Priya
-
-🎓 Final Year Student at NIT Jalandhar  
-💻 Incoming TDP Associate @ Optum  
-🚀 MERN Stack Developer | AI/ML Enthusiast  
 
 ---
 
 ## 🧠 About Me
-I am a passionate developer with a strong interest in **Software Development and Artificial Intelligence**.  
-I enjoy building real-world applications that combine **web technologies and AI**.
 
-🔹 Built projects using **GANs and RAG-based systems**  
-🔹 Strong foundation in **Data Structures & Algorithms (C++)**  
-🔹 Actively exploring scalable and impactful tech solutions  
-
----
-
-## 🚀 Projects
-
-### 🔹 RAG-based College Chatbot
-- Built a chatbot for timetable queries using Retrieval-Augmented Generation  
-- Used **MongoDB as knowledge base** and **Groq LLM** for fast responses  
-- Enabled context-aware, real-time query handling  
+- AI/ML-focused developer passionate about building intelligent and scalable applications
+- Experienced in developing RAG systems, GAN-based models, and full-stack AI applications
+- Strong foundation in Data Structures & Algorithms using C++
+- Interested in Generative AI, AI Agents, NLP, and scalable backend architectures
+- Enjoy integrating AI models with real-world production systems
 
 ---
 
-### 🔹 SolarGAN: Conditional GAN for Data Augmentation
-- Developed a **CGAN** for class-conditioned image generation  
-- Applied on **solar panel dataset** to generate synthetic images  
-- Used **VGG16 for feature extraction** and **FID score for evaluation**  
+## ⚡ Tech Focus
+
+- Retrieval-Augmented Generation (RAG)
+- Generative AI & GANs
+- LLM Applications
+- FastAPI Backend Systems
+- Vector Databases (ChromaDB)
+- MERN Stack Development
+- NLP & Semantic Search
+- AI Agent Systems
 
 ---
 
-### 🔹 Skill Sprout (MERN Web App)
-- Full-stack educational platform built using **MongoDB, Express, React, Node.js**  
-- Implemented authentication, database integration, and responsive UI  
+# 🚀 Featured Projects
+
+## 🔹 Xceed AI Academic Assistant
+
+- Designed an AI-powered academic assistant for NIT Jalandhar
+- Integrated RAG pipeline using MongoDB + ChromaDB
+- Used Groq LLM for real-time timetable and academic query handling
+- Built scalable backend using FastAPI and responsive React frontend
+- Created as a stepping stone toward a larger AI-agent ecosystem for academic automation
 
 ---
 
-### 🔹 Real-Time Chat Application
-- Built using **Socket.IO** for instant messaging  
-- Supports real-time communication and multiple users  
+## 🔹 SolarGAN: Conditional GAN for Data Augmentation
+
+- Developed a Conditional GAN (CGAN) for class-conditioned image generation
+- Applied on solar panel datasets to generate synthetic training images
+- Used VGG16 for feature extraction and FID score for evaluation
+- Improved dataset diversity for better deep learning model performance
 
 ---
 
-## 💻 Skills & Technologies
+## 🔹 Skill Sprout (MERN Web Application)
 
-**Languages:**  
-C++, Python, JavaScript  
-
-**Web Development:**  
-MERN Stack (MongoDB, Express, React, Node.js)  
-HTML, CSS, Firebase  
-
-**AI/ML:**  
-GANs, RAG, Deep Learning, NLP  
-
-**Other:**  
-Solidity, Blockchain (Basics)  
+- Built a full-stack educational platform using MongoDB, Express.js, React.js, and Node.js
+- Implemented authentication, database integration, and responsive UI
+- Focused on scalability and user-friendly design
 
 ---
 
-## 🏆 Achievements
+## 🔹 Real-Time Chat Application
 
-🏅 Ranked **388 / 5000+ contributors** in GSSoC 2024  
-⭐ 3★ Coder on CodeChef  
-🥈 Rank 2 at NIT Jalandhar (Graphs Bootcamp by Algo University)  
-
----
-
-## 🌱 Currently Exploring
-- Advanced AI/ML systems  
-- Scalable backend architectures  
-- Blockchain & Web3  
+- Developed a real-time chat platform using Socket.IO
+- Supports instant messaging and multiple user communication
+- Built responsive frontend with efficient backend communication
 
 ---
 
-## 🤝 Let's Connect!
-I’m always open to collaboration, learning, and exciting opportunities 🚀
+# 💻 Skills & Technologies
 
+## Languages
+- C++
+- Python
+- JavaScript
 
+## Web Development
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+- FastAPI
+- Firebase
+- HTML/CSS
 
+## AI/ML
+- GANs
+- RAG
+- NLP
+- Deep Learning
+- LLM Integration
+- ChromaDB
+- Semantic Search
 
-  	
+## Tools & Platforms
+- Git & GitHub
+- Postman
+- VS Code
+- Linux
 
+---
 
-<!--   <a href="https://gssoc.girlscript.tech/leaderboard"> -->
-<!-- <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" /> -->
-<!--   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" /> -->
-<!--   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" /> -->
-<!--   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" /> -->
-<!--   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" /> -->
-<!--   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" /> -->
-<!--   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="105px" height="105px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/7.png" width="100px" height="100px" /> -->
-<!--   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/8.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Code%20Luminary.png" width="105px" height="105px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100px" height="100px" /></a> -->
+# 🏆 Achievements
 
+- 🏅 Ranked 388 / 5000+ contributors in GSSoC 2024
+- ⭐ 3★ Coder on CodeChef
+- 🥈 Rank 2 at NIT Jalandhar (Graphs Bootcamp by Algo University)
+- 🚀 Incoming TDP Associate @ Optum
 
+---
 
-<!--
-**piyahub/piyahub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🌱 Currently Exploring
 
-Here are some ideas to get you started:
+- AI Agent Systems
+- Advanced RAG Architectures
+- Scalable AI Infrastructure
+- LLM Optimization
+- Autonomous Workflow Automation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+# 🤝 Let's Connect!
+
+I’m always open to collaboration, learning opportunities, open-source contributions, and exciting AI/ML projects 🚀
