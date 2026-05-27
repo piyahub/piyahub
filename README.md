@@ -89,13 +89,16 @@
   <img src="https://skillicons.dev/icons?i=cpp,python,javascript,react,nodejs,express,mongodb,fastapi,firebase,html,css,git,github,postman,vscode,linux" />
 </p>
 
-### 🧠 AI/ML
-- Retrieval-Augmented Generation (RAG)
-- GANs & Generative AI
-- NLP & Semantic Search
-- Deep Learning
-- LLM Integration
-- ChromaDB & Vector Databases
+# 🤖 AI / ML Stack
+
+![RAG](https://img.shields.io/badge/RAG-Retrieval--Augmented--Generation-blueviolet?style=for-the-badge)
+![LLM](https://img.shields.io/badge/LLMs-Large%20Language%20Models-orange?style=for-the-badge)
+![GANs](https://img.shields.io/badge/GANs-Generative%20AI-red?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-Natural%20Language%20Processing-green?style=for-the-badge)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-Vector%20Database-blue?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/DeepLearning-Neural%20Networks-yellow?style=for-the-badge)
+![Semantic Search](https://img.shields.io/badge/SemanticSearch-AI%20Retrieval-purple?style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/FastAPI-AI%20Backend-009688?style=for-the-badge)
 
 ---
 # 🏆 Achievements
