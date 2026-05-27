@@ -86,7 +86,22 @@
 # 💻 Skills & Technologies
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,python,javascript,react,nodejs,express,mongodb,fastapi,firebase,html,css,git,github,postman,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=cpp" title="C++" width="50"/>
+  <img src="https://skillicons.dev/icons?i=python" title="Python" width="50"/>
+  <img src="https://skillicons.dev/icons?i=javascript" title="JavaScript" width="50"/>
+  <img src="https://skillicons.dev/icons?i=react" title="React.js" width="50"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" width="50"/>
+  <img src="https://skillicons.dev/icons?i=express" title="Express.js" width="50"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" width="50"/>
+  <img src="https://skillicons.dev/icons?i=fastapi" title="FastAPI" width="50"/>
+  <img src="https://skillicons.dev/icons?i=firebase" title="Firebase" width="50"/>
+  <img src="https://skillicons.dev/icons?i=html" title="HTML5" width="50"/>
+  <img src="https://skillicons.dev/icons?i=css" title="CSS3" width="50"/>
+  <img src="https://skillicons.dev/icons?i=git" title="Git" width="50"/>
+  <img src="https://skillicons.dev/icons?i=github" title="GitHub" width="50"/>
+  <img src="https://skillicons.dev/icons?i=postman" title="Postman" width="50"/>
+  <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" width="50"/>
+  <img src="https://skillicons.dev/icons?i=linux" title="Linux" width="50"/>
 </p>
 
 # 🤖 AI / ML Stack
